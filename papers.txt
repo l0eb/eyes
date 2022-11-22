@@ -1,0 +1,17 @@
+11/22/2022 
+10:30 AM 
+
+1)https://www.researchgate.net/publication/351311739_A_Practice_for_Object_Detection_Using_YOLO_Algorithm
+text available
+
+2)Understanding of a Convolutional Neural Network-https://sci-hub.se/10.1109/ICEngTechnol.2017.8308186
+downloaded
+
+3)Localization of Eye Region in Infrared Thermal Images using Deep Neural Network - https://sci-hub.se/10.1109/WiSPNET51692.2021.9419446
+downloaded
+
+4)EYE SPY Face Detection and Identification using YOLO - https://sci-hub.se/10.1109/ICSSIT46314.2019.8987830
+downloaded
+
+5)A Remote Free-head Pupillometry Based on Deep Learning and Binocular System - https://sci-hub.se/10.1109/JSEN.2018.2885355
+downloaded
